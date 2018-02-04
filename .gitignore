@@ -1,0 +1,29 @@
+# Project-specific ignores
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+.eggs
+eggs
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.tox
+
+# Sphinx
+doc/build
+
+# pbr generates these
+AUTHORS
+ChangeLog
+
+# Debug
+*.log
